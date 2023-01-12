@@ -24,7 +24,7 @@
         "type": "string",
         "defaultValue": "20.04.0-LTS",
         "allowedValues": [
-          "20.04.0-LTS",
+          "20.04.0-LS",
           "14.04.5-LTS",
           "15.10",
           "16.04.0-LTS"
